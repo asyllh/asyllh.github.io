@@ -1,0 +1,107 @@
+Website:
+
+http://www.asylhawa.com
+domain: hover
+host: github pages
+
+Home Page:
+----------
+-One plain white page, name in the middle, large
+-navigation bar at the top
+-footer at the bottom
+
+
+About Page:
+-----------
+-What I'm currently doing, PhD, Becker paper(link), Becker website(link), working with Dr Rhydian lewis(link) and Dr Jonathan Thompson(link) at Cardiff University (link) and EPSRC(link)
+-To see any of my code/what I get up to, check out my github repos (link)
+
+
+Bio:
+----
+
+Education:
+
+PhD in Mathematics, Cardiff University 
+- October 2016 - present
+- Fully funded by Cardiff University(link) and EPSRC(link)
+- Supervised by Dr Rhydian Lewis(link) and Dr Jonathan Thompson(link)
+- Algorithms and Heuristic, Operational Research
+
+BSc Mathematics, Operational Research, and Statistic, Cardiff University
+- September 2013 - June 2016
+- First Class Honours
+
+Professional Memberships:
+- Candidate Associate of The Operational Research Society(link)
+- IMA(link)
+- SIAM(link)
+
+Work Experience:
+- Accounting: RSM Tenon, KPMG
+- Medicine: Southampton General Hospital
+- Property: Foxtons
+
+Cardiff University Phoenix Project Namibia
+C++
+LaTeX
+NATCOR
+MedSim
+
+
+Contact/Resources:
+------------------
+
+To contact me about work or university related business, please email me at HawaA@cardiff.ac.uk
+
+- Papers I'm interested in: GoogleScholar(link)
+- Books I'm currently reading: Goodreads(link)
+- Code I'm working on: GitHub(link)
+- My online CV: LinkedIn(link)
+- Where I've been and where i'm going: (link to travel post)
+- Want to start using C++? : (link to post)
+
+
+Post ideas:
+-----------
+
+- C++ for beginners/how to get started coding
+- Talk about my thesis topic
+- interesting websites
+- things i like to use, mendeley, texstudio, git, clion/visual studio, tmux, htop, apps on my phone etc, slack
+- worst phd mistakes
+- how i do a phd, notebook, notes, weekly meetings, contact with others and supervisors, clear head, workspace, motivation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
