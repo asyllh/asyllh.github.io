@@ -14,6 +14,7 @@ url: "http://www.asylhawa.com" # the base hostname & protocol for your site
 twitter_username: asylhawa
 github_username:  asyllh
 keybase_username: asylhawa
+mail_username:    HawaA@cardiff.ac.uk
 paginate: 5
 
 gems: [jekyll-paginate, kramdown]
