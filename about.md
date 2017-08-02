@@ -8,6 +8,6 @@ I'm currently a Mathematics PhD student at Cardiff University, working with [Dr 
 
 If I'm not working, I'm most probably reading. You can keep up to date with books I'm currently enjoying on [Goodreads](https://www.goodreads.com/user/show/27300675-asyl).
 
-For a comprehensive overview of my work experience, take a look at my [LinkedIn](https://www.linkedin.com/in/asylhawa/) profile.
+I have an extensive range of work experience over various sectors, including accounting, medicine, public relations, property and retail. For a comprehensive overview of my work experience, take a look at my [LinkedIn](https://www.linkedin.com/in/asylhawa/) profile.
 
 All of my work is published on [GitHub](https://github.com/asyllh), and is updated regularly.

@@ -28,3 +28,12 @@ September 2013 - June 2016
 * Candidate Associate of [The Operational Research Society](https://www.theorsociety.com/)
 * Member of the [Institute of Mathematics and its Applications](https://ima.org.uk/)
 
+## Outreach
+
+* Mathematics Summer School at the University of Namibia - [Cardiff University Phoenix Project](http://www.cardiff.ac.uk/phoenix-project)
+
+## Courses
+
+* [NATCOR](http://www.natcor.ac.uk/) Simulation course - Loughborough University, July 2017
+
+
