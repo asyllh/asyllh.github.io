@@ -18,6 +18,12 @@
               {% include icon-keybase.html username=site.keybase_username %}
             </li>
           {% endif %}
+
+          {% if site.mail_username %}
+          <li>
+            {% include icon-mail.html username=site.mail_username %}
+          </li>
+          {% endif %}
           
         </ul>
       </div>
