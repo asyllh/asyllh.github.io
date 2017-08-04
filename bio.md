@@ -27,10 +27,15 @@ September 2013 - June 2016
 
 * Candidate Associate of [The Operational Research Society](https://www.theorsociety.com/)
 * Member of the [Institute of Mathematics and its Applications](https://ima.org.uk/)
+* Member of the [Society for Industrial and Applied Mathematics (SIAM)](https://www.siam.org) - [Cardiff University Student Chapter](http://www.cardiff.ac.uk/mathematics/about-us/siam-student-chapter)
+
+
 
 ## Outreach
 
 * Mathematics Summer School at the University of Namibia - [Cardiff University Phoenix Project](http://www.cardiff.ac.uk/phoenix-project)
+
+
 
 ## Courses
 
