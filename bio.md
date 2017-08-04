@@ -10,7 +10,7 @@ permalink: /bio/
 
 October 2016 - Present
 
-* Fully funded by Cardiff University and [EPSRC](https://www.epsrc.ac.uk/)
+* Fully funded by [Cardiff University](http://www.cardiff.ac.uk/mathematics) and [EPSRC](https://www.epsrc.ac.uk/)
 * Supervised by [Dr Rhydian Lewis](http://www.rhydlewis.eu) and [Dr Jonathan Thompson](http://www.cardiff.ac.uk/people/view/98669-thompson-jonathan)
 * Research field: Algorithms and Heuristics
 
