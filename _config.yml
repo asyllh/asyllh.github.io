@@ -17,6 +17,6 @@ keybase_username: asylhawa
 mail_username:    HawaA@cardiff.ac.uk
 paginate: 5
 
-gems: [jekyll-paginate, kramdown]
+plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
