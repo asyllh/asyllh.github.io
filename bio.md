@@ -29,6 +29,14 @@ September 2013 - June 2016
 * Member of the [Institute of Mathematics and its Applications](https://ima.org.uk/)
 * Member of the [Society for Industrial and Applied Mathematics (SIAM)](https://www.siam.org) - [Cardiff University Student Chapter](http://www.cardiff.ac.uk/mathematics/about-us/siam-student-chapter)
 
+## Publications
+
+* [Ciw: An open source discrete event simulation library](https://arvix.org/abs/1710.03561) - [Palmer, G.I.](http://www.geraintianpalmer.org.uk), [Knight, V.A.](http://www.vknight.org), [Harper, P.R.](http://www.profpaulharper.com), Hawa, A.L. 2017 (under review)
+
+## Presentations
+
+* A Brief Overview on the Minimum Score Separation Problem - South Wales Operational Research Discussion Society ([SWORDS](http://www.theorsociety.com/Pages/Regional/swords.aspx)) Meeting, 2017
+
 ## Responsibilites
 
 * Interschool Postgraduate Representative for Cardiff University School of Mathematics, October 2016 - present
