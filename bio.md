@@ -35,11 +35,12 @@ September 2013 - June 2016
 
 ## Presentations
 
-* A Brief Overview on the Minimum Score Separation Problem - South Wales Operational Research Discussion Society ([SWORDS](http://www.theorsociety.com/Pages/Regional/swords.aspx)) Meeting, 2017
+* A Brief Overview on the Minimum Score Separation Problem - South Wales Operational Research Discussion Society ([SWORDS](http://www.theorsociety.com/Pages/Regional/swords.aspx)) Meeting, October 2017
 
 ## Responsibilites
 
 * Interschool Postgraduate Representative for Cardiff University School of Mathematics, October 2016 - present
+* [STEM Ambassador](https://www.stem.org.uk/stem-ambassadors), November 2017 - present
 
 ## Outreach
 
