@@ -56,7 +56,7 @@ September 2013 - June 2016
 
 ## Courses
 
-* [NATCOR](http://www.natcor.ac.uk/) Simulation course - Loughborough University, July 2017
+* [NATCOR](http://www.natcor.ac.uk/) Simulation - Loughborough University, July 2017
 * [NATCOR](http://www.natcor.ac.uk/) Heuristics and Approximation Algorithms - University of Nottingham, April 2018 
 
 
