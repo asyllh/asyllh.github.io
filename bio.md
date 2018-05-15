@@ -12,7 +12,7 @@ October 2016 - present
 
 * Fully funded by [Cardiff University](http://www.cardiff.ac.uk/mathematics) and [EPSRC](https://www.epsrc.ac.uk/)
 * Supervised by [Dr Rhydian Lewis](http://www.rhydlewis.eu) and [Dr Jonathan Thompson](http://www.cardiff.ac.uk/people/view/98669-thompson-jonathan)
-* Research field: Algorithms and Heuristics
+* Research field: Algorithms and Heuristics, Bin Packing Problems
 
 
 #### BSc Mathematics, Operational Research and Statistics, Cardiff University
@@ -25,8 +25,8 @@ September 2013 - June 2016
 
 ## Professional Memberships
 
-* Candidate Associate (CandORS) of [The Operational Research Society](https://www.theorsociety.com/)
-* Member of the [Institute of Mathematics and its Applications](https://ima.org.uk/)
+* Candidate Associate of [The Operational Research Society](https://www.theorsociety.com/) (CandORS)
+* Associate Member of the [Institute of Mathematics and its Applications](https://ima.org.uk/)(AMIMA)
 * Member of the [Society for Industrial and Applied Mathematics (SIAM)](https://www.siam.org) - [Cardiff University Student Chapter](http://www.cardiff.ac.uk/mathematics/about-us/siam-student-chapter)
 
 ## Publications
@@ -57,5 +57,6 @@ September 2013 - June 2016
 ## Courses
 
 * [NATCOR](http://www.natcor.ac.uk/) Simulation course - Loughborough University, July 2017
+* [NATCOR](http://www.natcor.ac.uk/) Heuristics and Approximation Algorithms - University of Nottingham, April 2018 
 
 
