@@ -31,7 +31,7 @@ September 2013 - June 2016
 
 ## Publications
 
-* [Ciw: An open source discrete event simulation library](https://arvix.org/abs/1710.03561) - [Palmer, G.I.](http://www.geraintianpalmer.org.uk), [Knight, V.A.](http://www.vknight.org), [Harper, P.R.](http://www.profpaulharper.com), Hawa, A.L. 2017 (under review)
+* [Palmer, G.I.](http://www.geraintianpalmer.org.uk), [Knight, V.A.](http://www.vknight.org), [Harper, P.R.](http://www.profpaulharper.com), Hawa, A.L. (2017), [**Ciw: An open source discrete event simulation library**](https://doi.org/10.1080/17477778.2018.1473909) - *Journal of Simulation*
 
 ## Presentations
 
