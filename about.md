@@ -4,7 +4,7 @@ title : About
 permalink: /about/
 ---
 
-I'm currently a Mathematics PhD student at Cardiff University, working with [Dr Rhydian Lewis](http://www.rhydlewis.eu) and [Dr Jonathan Thompson](http://www.cardiff.ac.uk/people/view/98669-thompson-jonathan) on a topic combining bin packing and cutting stock problems called The Minimum Score Separation Problem. This thesis topic is an extension of research by [Dr Kai Becker](https://www.strath.ac.uk/staff/beckerkaidr) - you can take a look at his original work [here](https://link.springer.com/article/10.1057%2Fjors.2014.87).
+I'm currently a Mathematics PhD student at Cardiff University, working with [Dr Rhydian Lewis](http://www.rhydlewis.eu) and [Dr Jonathan Thompson](http://www.cardiff.ac.uk/people/view/98669-thompson-jonathan) on the Score-Constrained Strip-Packing Problem (SCSPP), a topic combining strip packing and cutting stock problems using graph theory.
 
 I have an extensive range of work experience over various sectors, including accounting, medicine, public relations, property and retail. For a comprehensive overview of my work experience, take a look at my [LinkedIn](https://www.linkedin.com/in/asylhawa/) profile.
 
