@@ -12,7 +12,7 @@ October 2016 - present
 
 * Fully funded by [Cardiff University](http://www.cardiff.ac.uk/mathematics) and [EPSRC](https://www.epsrc.ac.uk/)
 * Supervised by [Dr Rhydian Lewis](http://www.rhydlewis.eu) and [Dr Jonathan Thompson](http://www.cardiff.ac.uk/people/view/98669-thompson-jonathan)
-* Research field: Algorithms and Heuristics, Bin Packing Problems
+* Research field: Algorithms and Heuristics, Optimisation, Strip Packing, Graph Theory
 
 
 #### BSc Mathematics, Operational Research and Statistics, Cardiff University
@@ -20,6 +20,7 @@ October 2016 - present
 September 2013 - June 2016
 
 * First Class Honours
+
 
 
 
@@ -31,15 +32,17 @@ September 2013 - June 2016
 
 ## Publications
 
-* [Palmer, G.I.](http://www.geraintianpalmer.org.uk), [Knight, V.A.](http://www.vknight.org), [Harper, P.R.](http://www.profpaulharper.com), Hawa, A.L. (2017), ["Ciw: An open source discrete event simulation library''](https://doi.org/10.1080/17477778.2018.1473909) - *Journal of Simulation*
+* [Palmer, G.I.](http://www.geraintianpalmer.org.uk), [Knight, V.A.](http://www.vknight.org), [Harper, P.R.](http://www.profpaulharper.com), Hawa, A.L. (2017): [*Ciw: An open source discrete event simulation library*](https://doi.org/10.1080/17477778.2018.1473909) - Journal of Simulation
+* Hawa, A.L., [Lewis, R.](http://www.rhydlewis.eu), Thompson, J.M.: [*Source code for algorithms in the article "Heuristics for the Score-Constrained Strip-Packing Problem"*](https://zenodo.org/record/1311857#.W4Uj_JNKjyg).
 
 ## Presentations
 
 * A Brief Overview on the Minimum Score Separation Problem - South Wales Operational Research Discussion Society ([SWORDS](http://www.theorsociety.com/Pages/Regional/swords.aspx)) Meeting, October 2017
+* Heuristics for the Score-Constrained Strip-Packing Problem - The Operational Research Society Annual Conference ([OR60](http://www.theorsociety.com/Pages/Conferences/OR60/OR60.aspx)), September 2018
 
 ## Responsibilites
 
-* Interschool Postgraduate Representative for Cardiff University School of Mathematics, October 2016 - present
+* Interschool Postgraduate Representative for Cardiff University School of Mathematics, October 2016 - September 2017
 * [STEM Ambassador](https://www.stem.org.uk/stem-ambassadors), November 2017 - present
 
 ## Outreach
