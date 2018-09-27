@@ -38,7 +38,7 @@ September 2013 - June 2016
 ## Presentations
 
 * A Brief Overview on the Minimum Score Separation Problem - South Wales Operational Research Discussion Society ([SWORDS](http://www.theorsociety.com/Pages/Regional/swords.aspx)) Meeting, October 2017
-* Heuristics for the Score-Constrained Strip-Packing Problem - The Operational Research Society Annual Conference ([OR60](http://www.theorsociety.com/Pages/Conferences/OR60/OR60.aspx)), September 2018
+
 
 ## Responsibilites
 
