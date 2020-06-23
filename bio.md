@@ -54,6 +54,7 @@ September 2013 - June 2016
 ## Skills
 
 * C++
+* Xpress Mosel
 * LaTeX
 * Version control using Git
 * Windows, macOS and Linux operating systems
