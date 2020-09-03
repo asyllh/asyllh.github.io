@@ -11,7 +11,7 @@ permalink: /bio/
 October 2016 - present
 
 * Fully funded by [Cardiff University](https://www.cardiff.ac.uk/people/research-students/view/477837-hawa-asyl) and [EPSRC](https://www.epsrc.ac.uk/)
-* Supervised by [Dr Rhydian Lewis](http://www.rhydlewis.eu) and [Dr Jonathan Thompson](http://www.cardiff.ac.uk/people/view/98669-thompson-jonathan)
+* Supervised by [Dr Rhyd Lewis](http://www.rhydlewis.eu) and [Dr Jonathan Thompson](http://www.cardiff.ac.uk/people/view/98669-thompson-jonathan)
 * Research field: Algorithms and Heuristics, Combinatorial Optimisation, Bin Packing, Graph Theory
 
 
