@@ -10,9 +10,9 @@ permalink: /bio/
 
 October 2016 - present
 
-* Fully funded by [Cardiff University](http://www.cardiff.ac.uk/mathematics) and [EPSRC](https://www.epsrc.ac.uk/)
+* Fully funded by [Cardiff University](https://www.cardiff.ac.uk/people/research-students/view/477837-hawa-asyl) and [EPSRC](https://www.epsrc.ac.uk/)
 * Supervised by [Dr Rhydian Lewis](http://www.rhydlewis.eu) and [Dr Jonathan Thompson](http://www.cardiff.ac.uk/people/view/98669-thompson-jonathan)
-* Research field: Algorithms and Heuristics, Optimisation, Strip Packing, Graph Theory
+* Research field: Algorithms and Heuristics, Combinatorial Optimisation, Bin Packing, Graph Theory
 
 
 #### BSc Mathematics, Operational Research and Statistics, Cardiff University
@@ -20,8 +20,6 @@ October 2016 - present
 September 2013 - June 2016
 
 * First Class Honours
-
-
 
 
 ## Professional Memberships
@@ -33,8 +31,8 @@ September 2013 - June 2016
 ## Publications
 
 * [Palmer, G.I.](http://www.geraintianpalmer.org.uk), [Knight, V.A.](http://www.vknight.org), [Harper, P.R.](http://www.profpaulharper.com), Hawa, A.L. (2017): [*Ciw: An open source discrete event simulation library*](https://doi.org/10.1080/17477778.2018.1473909) - Journal of Simulation
-* Hawa, A.L., [Lewis, R.](http://www.rhydlewis.eu), Thompson, J.M. (2018): [*Source code for algorithms in the article "Heuristics for the Score-Constrained Strip-Packing Problem"*](https://zenodo.org/record/1311857#.W4Uj_JNKjyg).
-* Hawa, A.L., Lewis, R., Thompson, J.M. (2018): [*Heuristics for the Score-Constrained Strip-Packing Problem*](https://link.springer.com/content/pdf/10.1007%2F978-3-030-04651-4_30.pdf) - [Combinatorial Optimization and Applications](https://doi.org/10.1007/978-3-030-04651-4)
+* Hawa, A.L., [Lewis, R.](http://www.rhydlewis.eu), Thompson, J.M. (2018): [*Heuristics for the Score-Constrained Strip-Packing Problem*](https://link.springer.com/content/pdf/10.1007%2F978-3-030-04651-4_30.pdf) - [Combinatorial Optimization and Applications](https://doi.org/10.1007/978-3-030-04651-4)
+* Hawa, A.L., Lewis, R., Thompson, J.M. (2020): *Exact and Approximate Methods for the Score-Constrained Packing Problem* - Under review with the European Journal of Operational Research
 
 ## Presentations
 
