@@ -4,15 +4,26 @@ title: Bio
 permalink: /bio/
 ---
 
+## Work
+
+#### Research Fellow, University of Southampton
+
+November 2020 - present
+
+* Working alongside Dr Carlos Lamas-Fernández, Dr Antonio Martinez-Sykora, and Dr Christine Currie
+* [ESRC](https://esrc.ukri.org/) Impact Acceleration Account project “Increasing productivity in the domiciliary care sector through automated routing and scheduling of carers”
+
+
 ## Education
 
 #### PhD in Mathematics, Cardiff University
 
-October 2016 - present
+October 2016 - November 2020
 
 * Fully funded by [Cardiff University](https://www.cardiff.ac.uk/people/research-students/view/477837-hawa-asyl) and [EPSRC](https://www.epsrc.ac.uk/)
 * Supervised by [Dr Rhyd Lewis](http://www.rhydlewis.eu) and [Dr Jonathan Thompson](http://www.cardiff.ac.uk/people/view/98669-thompson-jonathan)
 * Research field: Algorithms and Heuristics, Combinatorial Optimisation, Bin Packing, Graph Theory
+* Thesis: Exact and Evolutionary Algorithms for the Score-Constrained Packing Problem
 
 
 #### BSc Mathematics, Operational Research and Statistics, Cardiff University
